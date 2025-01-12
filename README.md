@@ -23,7 +23,7 @@ What makes C++ particularly powerful is its combination of high-level features (
 
 ![image](https://github.com/user-attachments/assets/7217cc86-798c-4cd9-b4f6-6cdcf11eb0aa)
 
-<h1> WHO INVEnTED C++ </h1>
+<h1> WHO INVENTED C++ </h1>
 <p>Bjarne Stroustrup invented C++ while working at Bell Labs. Let me create a simple visual representation of him.
 
 Bjarne Stroustrup created C++ as an extension of the C programming language while working at Bell Labs in Murray Hill, New Jersey. He began developing it in 1979, and the first commercial release occurred in 1985. The language was originally called "C with Classes" before being renamed to C++ in 1983.
