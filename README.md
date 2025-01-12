@@ -19,7 +19,7 @@ Common Uses:
 - Desktop applications
 - Embedded systems programming
 
-What makes C++ particularly powerful is its combination of high-level features (like classes and templates) with low-level control over system resources. However, this power comes with complexity - C++ can be challenging to learn and requires careful attention to memory management. </p?
+What makes C++ particularly powerful is its combination of high-level features (like classes and templates) with low-level control over system resources. However, this power comes with complexity - C++ can be challenging to learn and requires careful attention to memory management. </p>
 
 ![image](https://github.com/user-attachments/assets/7217cc86-798c-4cd9-b4f6-6cdcf11eb0aa)
 
