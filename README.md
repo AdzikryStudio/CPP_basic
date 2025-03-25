@@ -3,7 +3,7 @@
 <h1> WHAT IS C++? </h1>
 <p>C++ is a powerful and widely-used programming language that builds upon the C language. It was developed by Bjarne Stroustrup at Bell Labs in 1979 and released in 1985. Here are the key aspects of C++:
 
-Core Features
+Core Features:
 - Object-oriented programming support through classes and objects
 - Low-level memory manipulation capabilities
 - High performance and efficient execution
