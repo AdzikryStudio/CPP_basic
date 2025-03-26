@@ -14,7 +14,7 @@ int main(){
 		a += 2;
 	}
 	
-	
+	cout << "selesai" << endl;
 	
 	return 0;
 }
